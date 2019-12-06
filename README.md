@@ -5,13 +5,13 @@ PowerShell Module to Read and Write Credentials from the Windows Credential Mana
 I am no longer working on this project or PowerShell much at all.  If anyone else wants to take a fork and continue supporting this project. I would be happy to link to that project from here to guide people in the right direction.
 
 ## Installation
-###PowerShell Gallery Installation
-The module is available on the PowerShell Gallery: https://www.powershellgallery.com/packages/CredentialManager/1.0.0.
+### PowerShell Gallery Installation
+The module is available on the PowerShell Gallery: https://www.powershellgallery.com/packages/CredentialManager/.
 
 1. PS> Save-Module -Name CredentialManager -Path <path>
 2. PS> Install-Module -Name CredentialManager
 
-###Manual Installation
+### Manual Installation
 
 1. Dowload the latest verion of the module code from https://github.com/davotronic5000/PowerShell_Credential_Manager/releases
 2. Unzip CredentialManager.zip and copy the contents to you preferred module path. Usually C:\Users\$UserName\Documents\WindowsPowerShell\Modules.
